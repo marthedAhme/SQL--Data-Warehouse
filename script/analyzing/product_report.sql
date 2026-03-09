@@ -104,4 +104,3 @@ SELECT
 		END AS AMS
 FROM aggergate_product
 
-SELECT * FROM gold.product_report
